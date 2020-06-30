@@ -1,24 +1,21 @@
-# ttui
+Vue UI 组件
 
-## Project setup
-```
-yarn install
-```
+作者： WNLH
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 介绍
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 开始使用
+1. 安装
+使用本框架前,请在css中开启border-box
 
-### Lints and fixes files
+```css
+*{box-sizing: border-box;}
 ```
-yarn lint
-```
+## 文档
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 提问
+
+## 变更记录
+
+## 联系方式
+
